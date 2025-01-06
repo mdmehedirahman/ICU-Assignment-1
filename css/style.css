@@ -147,14 +147,14 @@ main {
     color: #ffff;
     font-size: 24px;
   }
-  .hero-img{
+  .hero-img {
     display: none;
   }
   .sample {
-   display: block;
-   grid-area: auto;
-   background-color: #363032;
-   padding: 32px;
+    display: block;
+    grid-area: auto;
+    background-color: #363032;
+    padding: 32px;
   }
   .sample .image {
     height: 292px;
@@ -162,10 +162,10 @@ main {
     margin-top: 10px;
     /* width: 250px; */
   }
-  .item-2{
+  .item-2 {
     width: 100%;
   }
-  .text-left{
+  .text-left {
     margin-bottom: 10px;
   }
 }
